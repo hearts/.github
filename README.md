@@ -1,1 +1,3 @@
-# .github-private
+[<u>Hearts</u>](https://www.hearts.dev) is a project by Open Source maintainers for Open Source maintainers and contributors. Our goal is to bring more recognition to contributors by tracking and notifying them of the ❤️ reactions they receive on their contributions across participating projects.
+
+Initiative is led by [@babblebey](https://github.com/babblebey), [@gr2m](https://github.com/gr2m) and [@bdougie](https://github.com/bdougie), all active Open Source maintainers who understand the challenges of visibility and appreciation in community-driven projects. Hearts exists to celebrate contributions, foster a culture of gratitude, and make sure every contributor feels valued.
